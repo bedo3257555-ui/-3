@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "شرقاوي",
+      "hasCanvas": false,
+      "bodyTextLen": 1829,
+      "bodyTextHash": "100bdff3d44358fa6bcdb19ee0e3715a2b71bbf7ed47e6f49a0f77337e0b7377",
+      "bodyTextPrefix": "ش شرقاوي المتابعة العلاجية اللوحة الغذاء الدواء التمرين القياسات",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "شرقاوي",
+      "hasCanvas": false,
+      "bodyTextLen": 1709,
+      "bodyTextHash": "0247b5e01b6ada7689003a600b84ff26d9f67096b3390799e9d467551f558191",
+      "bodyTextPrefix": "ش شرقاوي Nutri-clinic يومك سعيد، عبد الرحمن عبد الرحمن إبراهيم ا",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [
+    "BRAND NOTE: no custom public/og.jpg — the platform will serve the og.grok.me placeholder. Custom cards are the default for games of every kind (DOM board/word games included), whimsical apps, creative tools, and brand-forward pages — only plain utilities (converters, CRUD trackers, admin dashboards) keep the placeholder. If this app is not a plain utility, finish the brand-asset pass per /workspace/.grok/skills/og/SKILL.md."
+  ],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
